@@ -14,7 +14,7 @@ const ageB = 50;
 
 if (ageA < ageB) {
   console.log("A lebih muda dari B");
-} else if (ageA.ageB) {
+} else if (ageA > ageB) {
   console.log("tidak tepat");
 } else {
   console.log("coba lagi");
