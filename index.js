@@ -19,3 +19,18 @@ if (ageA < ageB) {
 } else {
   console.log("coba lagi");
 }
+
+switch (family) {
+  case "father":
+    console.log("oldest");
+    break;
+  case "mother":
+    console.log("older");
+    break;
+  case "uncle":
+    console.log("younger");
+    break;
+  case "aunt":
+    console.log("youngest");
+    break;
+}
